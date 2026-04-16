@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">Taller4</string>
+    <string name="app_name">Taller 4</string>
+    <string name="app_title">Operaciones Matemáticas</string>
+    <string name="app_subtitle">Calcula suma, resta, multiplicación y división, y compáralas en un gráfico.</string>
+    <string name="input_section_title">Ingrese dos números</string>
+    <string name="input_section_subtitle">Acepta valores enteros o decimales.</string>
+    <string name="hint_number_a">Número 1</string>
+    <string name="hint_number_b">Número 2</string>
+    <string name="button_calculate">Calcular</string>
+    <string name="button_clear">Limpiar</string>
+    <string name="results_section_title">Resultados</string>
+    <string name="chart_section_title">Gráfico comparativo</string>
+    <string name="chart_section_subtitle">El gráfico se actualiza cada vez que realiza un cálculo.</string>
+    <string name="label_suma">Suma</string>
+    <string name="label_resta">Resta</string>
+    <string name="label_multiplicacion">Multiplicación</string>
+    <string name="label_division">División</string>
+    <string name="estado_inicial">Ingrese valores y presione Calcular.</string>
+    <string name="estado_actualizado">Resultados actualizados correctamente.</string>
+    <string name="grafico_sin_datos">No hay datos para mostrar</string>
+    <string name="grafico_leyenda">Operaciones</string>
+    <string name="error_campo_requerido">Campo requerido</string>
+    <string name="error_numero_invalido">Número inválido</string>
+    <string name="error_numero_a">Ingrese un valor válido en el primer número.</string>
+    <string name="error_numero_b">Ingrese un valor válido en el segundo número.</string>
+    <string name="error_division_cero">El segundo número no puede ser 0.</string>
 </resources>
